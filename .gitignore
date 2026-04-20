@@ -1,0 +1,14 @@
+build/
+build-*/
+.vscode/
+board.h
+/*.pdf
+*.o
+*.obj
+*.exe
+*.a
+*.lib
+*.map
+*.elf
+*.bin
+*.hex
