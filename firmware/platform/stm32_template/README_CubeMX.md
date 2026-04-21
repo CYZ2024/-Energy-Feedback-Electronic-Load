@@ -1,5 +1,7 @@
 # CubeMX Port Template
 
+Chinese version: [README_CubeMX_cn.md](README_CubeMX_cn.md)
+
 This folder contains copy-ready templates for integrating the board-agnostic
 firmware into a CubeMX-generated STM32 project.
 
@@ -89,4 +91,3 @@ Bring-up order:
 4. Run CVCF alone at low DC voltage and current limit.
 5. Run rectifier PLL with `id_ref = 0`.
 6. Increase `id_ref` gradually from a small value, such as 0.1 A.
-

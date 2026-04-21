@@ -1,5 +1,7 @@
 # STM32 Stub Port
 
+Chinese version: [README_cn.md](README_cn.md)
+
 This directory is intentionally not built by the host CMake target.
 
 When a concrete STM32 board is selected, implement the HAL contracts from
@@ -21,4 +23,3 @@ Required implementation files for a real board:
 - `hal_gpio_stm32.c`
 - `hal_protection_stm32.c`
 - board configuration with ADC scaling, phase order, PWM period, and polarities
-

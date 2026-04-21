@@ -1,5 +1,7 @@
 # Energy Feedback Electronic Load Firmware
 
+Chinese version: [README_cn.md](README_cn.md)
+
 Board-agnostic firmware skeleton for a back-to-back dual-PWM energy-feedback
 electronic load.
 
